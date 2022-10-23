@@ -45,7 +45,7 @@ class main extends PluginBase
             }
         });
         $form->setTitle("§bVanish §eUI");
-        $form->setContent("§2Choose wether you want to be Vanished or not");
+        $form->setContent("§2Choose whether you want to be Vanished or not");
         $form->addButton("§a§lVanish");
         $form->addButton("§c§lUnvanish");
         $form->sendToPlayer($player);
