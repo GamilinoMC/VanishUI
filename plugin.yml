@@ -1,0 +1,16 @@
+name: Basic-Commands
+version: 1.0.0
+author: GamilinoMC
+api: 4.0.0
+main: GamilinoMC\main
+
+commands:
+  vanish:
+    description: Vanish Command
+    permission-message: "§3VanishUI §r» §cYou dont have the permissions to do that!"
+    permission: vanish.use
+    
+permissions:
+  vanish.use:
+    description: Vanish CMD
+    default: op
