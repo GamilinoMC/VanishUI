@@ -7,22 +7,6 @@ use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\player\Player;
 
-<?php
-
-namespace PinguGames;
-
-use jojoe77777\FormAPI\CustomForm;
-use pocketmine\command\Command;
-use pocketmine\command\CommandSender;
-use pocketmine\event\player\PlayerJoinEvent;
-use pocketmine\event\player\PlayerLoginEvent;
-use pocketmine\plugin\PluginBase;
-use pocketmine\player\GameMode;
-use pocketmine\player\Player;
-use jojoe77777\FormAPI\SimpleForm;
-use pocketmine\command\defaults\KickCommand;
-use pocketmine\event\player\PlayerKickEvent;
-
 class main extends PluginBase
 {
     public function onCommand(CommandSender $sender, Command $cmd, string $label, array $args): bool
