@@ -3,6 +3,7 @@ A simple vanish plugin with a clean UI!
 
 ## Commands
 --> /vanish
+
 --> /v
 
 ## Pictures
