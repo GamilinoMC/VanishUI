@@ -7,6 +7,6 @@ A simple vanish plugin with a clean UI!
 ➜ /v
 
 ## Pictures
-<img src="logo.png">
+<img src="pic.png">
 
 ### Please report bugs on Github! | Made byGamilinoMC
