@@ -2,9 +2,9 @@
 A simple vanish plugin with a clean UI!
 
 ## Commands
--> /vanish
+➜ /vanish
 
--> /v
+➜ /v
 
 ## Pictures
 
