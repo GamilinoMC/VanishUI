@@ -6,6 +6,7 @@ use jojoe77777\FormAPI\SimpleForm;
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\player\Player;
+use pocketmine\plugin\PluginBase;
 
 class main extends PluginBase
 {
