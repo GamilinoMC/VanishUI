@@ -1,6 +1,8 @@
 # VanishUI
 A simple vanish plugin with a clean UI!
 
+IMPORTANT: You need FormAPI installed!
+
 ## Commands
 ➜ /vanish
 
