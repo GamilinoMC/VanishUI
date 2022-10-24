@@ -7,6 +7,9 @@ use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\player\Player;
 use pocketmine\plugin\PluginBase;
+use CortexPE\DiscordWebhookAPI\Message;
+use CortexPE\DiscordWebhookAPI\Webhook;
+use CortexPE\DiscordWebhookAPI\Embed;
 
 class main extends PluginBase
 {
@@ -33,6 +36,14 @@ class main extends PluginBase
                     $player->setFlying(true);
                     $player->setAllowFlight(true);
                     $player->sendPopup("§aYou are vanished now!");
+                    
+                    $webHook = new Webhook("YOUR WEBHOOK URL");
+                    $embed = new Embed();
+                    
+                    $embed->setTitle("PinguGames | Vanish");
+                    $embed->setColor(0x0000FF);
+                    $embed->addField("1. ", "The Player " . $player . "has vanished!");
+                    $msg->addEmbed($embed);
                     break;
 
                 case 1:
@@ -41,6 +52,14 @@ class main extends PluginBase
                     $player->setFlying(false);
                     $player->setAllowFlight(false);
                     $player->sendPopup("§cYou have been unvanished!");
+                    
+                    $webHook = new Webhook("YOUR WEBHOOK URL");
+                    $embed = new Embed();
+                    
+                    $embed->setTitle("PinguGames | Vanish");
+                    $embed->setColor(0x0000FF);
+                    $embed->addField("1. ", "The Player " . $player . "has un      bnvanished!");
+                    $msg->addEmbed($embed);
                     break;
             }
         });
