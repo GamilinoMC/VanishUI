@@ -22,6 +22,12 @@ A simple vanish plugin with a clean UI!
 ## Pictures
 <img src="pic.png">
 
+## Planed Features
+
+- Vanish command without UI
+- UI with pictures
+- Scoreboard integration
+
 ## Credits
 
 ### Please report bugs on Github! | Made byGamilinoMC
