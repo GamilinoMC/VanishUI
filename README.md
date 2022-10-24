@@ -30,6 +30,8 @@ A simple vanish plugin with a clean UI!
 
 ## Credits
 
-### Please report bugs on Github! | Made byGamilinoMC
+### Please report bugs on Github! | Made by GamilinoMC
+
+FormAPI - jojoe77777
 
 Icon by https://www.flaticon.com/
