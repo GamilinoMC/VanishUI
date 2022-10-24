@@ -17,7 +17,7 @@ A simple vanish plugin with a clean UI!
 ## Permissions
 | **Permissions**                    | **Description**              | **Default**        |
 |------------------------------------|---------------------------------------------------|
-| `vanish.use`                       | Set the spawn of a world     | OP                 |
+| `vanish.use`                       | Vanish Permission            | OP                 |
 
 ## Pictures
 <img src="pic.png">
