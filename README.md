@@ -26,4 +26,4 @@ A simple vanish plugin with a clean UI!
 
 ### Please report bugs on Github! | Made byGamilinoMC
 
-Icon by https://www.flaticon.com/de/
+Icon by https://www.flaticon.com/
