@@ -29,6 +29,7 @@ A simple vanish plugin with a clean UI!
 - Vanish command without UI
 - UI with pictures
 - Scoreboard integration
+- Discord webhook integration
 
 ## Credits
 
