@@ -1,4 +1,6 @@
 # VanishUI
+<a href="https://poggit.pmmp.io/p/VanishUI"><img src="https://poggit.pmmp.io/shield.state/VanishUI"></a>
+
 A simple vanish plugin with a clean UI!
 
 ## Features
