@@ -15,9 +15,9 @@ A simple vanish plugin with a clean UI!
 - Permissions
 
 ## Permissions
-| **Permissions**                    | **Description**              | **Default**        |
-|------------------------------------|---------------------------------------------------|
-| `vanish.use`                       | Vanish Permission            | OP                 |
+| **Permissions** | **Description**               | **Default** |
+|-----------------|-------------------------------|-------------|
+| vanish.use      | Permission for the Vanish UI! | Operator    |
 
 ## Pictures
 <img src="pic.png">
